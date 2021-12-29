@@ -25,6 +25,10 @@
     "typescript": "^4.5.4"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "dotenv": "^10.0.0",
+>>>>>>> 38e7650 (Boilerplate code)
     "express": "^4.17.2"
   }
 }

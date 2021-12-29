@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 node_modules
+=======
+node_modules
+.env
+>>>>>>> 38e7650 (Boilerplate code)
